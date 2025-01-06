@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AiPhoto</string>
+    <string name="capture_button">Capture</string>
+    <string name="share_button">Share</string>
+    <string name="api_error">Failed to analyze image. Please try again.</string>
+    <string name="camera_error">Failed to start camera. Please check permissions.</string>
+    <string name="share_title">Share via</string>
+</resources>
